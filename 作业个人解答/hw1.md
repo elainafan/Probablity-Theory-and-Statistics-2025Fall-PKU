@@ -1,6 +1,6 @@
 ## 第一题
 
-![](./Picture%20Assets/第一次作业/1.png)
+![](./Picture%20Assets/hw1/1.png)
 
 (1) 
 采用归纳，易知 $n=2$ 时成立。
@@ -37,7 +37,7 @@ $$
 
 ## 第二题
 
-![](./Picture%20Assets/第一次作业/2.png)
+![](./Picture%20Assets/hw1/2.png)
 
 (1)
 
@@ -83,8 +83,8 @@ P(A \overline{B}) & = P(A)-P(AB) \\
 
 ## 第三题
 
-![](./Picture%20Assets/第一次作业/3(1).png)
-![](./Picture%20Assets/第一次作业/3(2).png)
+![](./Picture%20Assets/hw1/3(1).png)
+![](./Picture%20Assets/hw1/3(2).png)
 
 证明：
 
@@ -116,7 +116,7 @@ LHS & \geq e^{\frac{n(n-1)}{2m}-\frac{n^3}{3m^2}} \\
 
 ## 第四题
 
-![](./Picture%20Assets/第一次作业/4.png)
+![](./Picture%20Assets/hw1/4.png)
 
 (1)
 
@@ -141,7 +141,7 @@ $$\begin{align*}
 \end{align*}$$
 ## 第五题
 
-![](./Picture%20Assets/第一次作业/5.png)
+![](./Picture%20Assets/hw1/5.png)
 
 解：
 
@@ -162,7 +162,7 @@ $$\begin{align*}
 
 ## 第六题
 
-![](./Picture%20Assets/第一次作业/6.png)
+![](./Picture%20Assets/hw1/6.png)
 
 (1)
 由于结果相互独立，因此 $P(A_{V,v})=(\frac{1}{2})^k$

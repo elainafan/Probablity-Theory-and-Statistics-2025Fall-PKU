@@ -1,6 +1,6 @@
 ## 第一题
 
-![](./Picture%20Assets/第三次作业/1.png)
+![](./Picture%20Assets/hw3/1.png)
 
 (1)
 
@@ -23,7 +23,7 @@ $$\begin{align*}
 
 ## 第二题
 
-![](./Picture%20Assets/第三次作业/2.png)
+![](./Picture%20Assets/hw3/2.png)
 
 (1) 
 
@@ -80,7 +80,7 @@ $$
 
 ## 第三题
 
-![](./Picture%20Assets/第三次作业/3.png)
+![](./Picture%20Assets/hw3/3.png)
 
 (1) 考虑每个区间 设随机变量 $X_1,\ldots,X_n$ 
 
@@ -114,7 +114,7 @@ E(g(X))
 
 ## 第四题
 
-![](./Picture%20Assets/第三次作业/4.png)
+![](./Picture%20Assets/hw3/4.png)
 
 (1)
 
@@ -223,7 +223,7 @@ $$\begin{align*}
 
 ## 第五题
 
-![](./Picture%20Assets/第三次作业/5.png)
+![](./Picture%20Assets/hw3/5.png)
 
 (1)
 
@@ -284,7 +284,7 @@ $$
 
 ## 第六题
 
-![](./Picture%20Assets/第三次作业/6.png)
+![](./Picture%20Assets/hw3/6.png)
 
 (1)
 

@@ -1,5 +1,5 @@
 ## 第一题
-![](./Picture%20Assets/第二次作业/1.png)
+![](./Picture%20Assets/hw2/1.png)
 (1)
 令随机变量 $X$ 的取值为 $0,a$
 
@@ -18,7 +18,7 @@ $P(X=C+1)=P(X=C-1)=\frac{1}{2c^2},P(X=C)=1-\frac{1}{c^2}$
 于是 $C \cdot \sigma(X)=1 \Rightarrow P(|X-E(X)| \geq 1) = \frac{1}{c^2}$
 
 ## 第二题
-![](./Picture%20Assets/第二次作业/2.png)
+![](./Picture%20Assets/hw2/2.png)
 
 (1) $\mathrm{Var}(X)=E[(X-E(X))^2]$
 
@@ -43,7 +43,7 @@ E((X-c)^2)
 因此 $\mathrm{Var}(X)=\frac{(b-a)^2}{4}$
 
 ## 第三题
-![](./Picture%20Assets/第二次作业/3.png)
+![](./Picture%20Assets/hw2/3.png)
 
 (1) $Y$ 的所有取值为 $2,3,\ldots$
 
@@ -97,8 +97,8 @@ $$\begin{align*}
 - 注：本题使用几何分布计算，可以极大减小计算量。
 
 ## 第四题
-![](./Picture%20Assets/第二次作业/4(1).png)
-![](./Picture%20Assets/第二次作业/4(2).png)
+![](./Picture%20Assets/hw2/4(1).png)
+![](./Picture%20Assets/hw2/4(2).png)
 
 (1)
 随机变量 $X$ 的所有可能取值为 $0 \sim n$
@@ -174,7 +174,7 @@ g''(t)
 令 $t=0$，得 $E(Y)=\lambda,E(Y^2)=\lambda^2+\lambda$
 
 ## 第五题
-![](./Picture%20Assets/第二次作业/5.png)
+![](./Picture%20Assets/hw2/5.png)
 
 (1) 随机变量 $X_i$ 的所有可能取值为 $0,1,\ldots,m$，且 $P(X_i=k)=C_{m}^{k} (\frac{1}{m})^k(1-\frac{1}{m})^{m-k}$
 
@@ -227,7 +227,7 @@ E(Y)
 \end{align*}$$
 
 ## 第六题
-![](./Picture%20Assets/第二次作业/6.png)
+![](./Picture%20Assets/hw2/6.png)
 
 (1)
 

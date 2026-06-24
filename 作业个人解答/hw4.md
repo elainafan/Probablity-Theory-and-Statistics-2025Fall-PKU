@@ -1,6 +1,6 @@
 ## 第一题
 
-![](./Picture%20Assets/第四次作业/1.png)
+![](./Picture%20Assets/hw4/1.png)
 
 (1)
 
@@ -33,7 +33,7 @@ P(X+Y=n)
 
 ## 第二题
 
-![](./Picture%20Assets/第四次作业/2.png)
+![](./Picture%20Assets/hw4/2.png)
 
 (1) 由已知条件 $P(X=x_i \cap Y=y_j | A)=P(X=x_i | A)P(Y=y_j | A)$
 
@@ -129,7 +129,7 @@ E(X_i|\overline{E_{ij}})
 
 ## 第三题
 
-![](./Picture%20Assets/第四次作业/3.png)
+![](./Picture%20Assets/hw4/3.png)
 
 (1) 令 $Y=1_{X=1}$
 
@@ -220,7 +220,7 @@ E(Y^2)
 
 ## 第四题
 
-![](./Picture%20Assets/第四次作业/4.png)
+![](./Picture%20Assets/hw4/4.png)
 
 (1)
 
@@ -287,7 +287,7 @@ E(Y^2)
 
 ## 第五题
 
-![](./Picture%20Assets/第四次作业/5.png)
+![](./Picture%20Assets/hw4/5.png)
 
 (1) 由于 $Y=\sum\limits_{i=1}^{n}X_i$ ，且 $X_i$ 独立同分布，
 
@@ -341,7 +341,7 @@ E(X_iX_jX_kX_l) & =0 \\
 
 ## 第六题
 
-![](./Picture%20Assets/第四次作业/6.png)
+![](./Picture%20Assets/hw4/6.png)
 
 (1)
 
